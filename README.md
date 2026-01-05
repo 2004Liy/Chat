@@ -1,3 +1,3 @@
 # Chat
 使用之前要做一些准备工作，客户端编译后要把chat（存放聊天接收的文件）文件夹挪到编译出的文件夹中，服务器编译之后要把usericon（存放用户的头像）文件夹也挪到编译后的文件夹中
-[Uploading capture_20260105160808232.bmp…]()
+[capture_20260105160808232.bmp](https://github.com/user-attachments/files/24429276/capture_20260105160808232.bmp)
